@@ -67,7 +67,7 @@ Atualmente, atuo na **Agrotis**, desenvolvendo soluções com **Java**, **Spring
 
 ## 🔥 Featured Project  
 
-🌐 [**usu-backend**](https://github.com/SEU-USUARIO/usu-backend)  
+🌐 [**usu-backend**](https://github.com/MLourenco111/usu-backend)  
 REST API built with **Java 21**, **Spring Boot**, **PostgreSQL**, and **Docker**, following clean architecture principles and production-ready practices.  
 
 > 💡 More projects coming soon!  
@@ -83,20 +83,9 @@ REST API built with **Java 21**, **Spring Boot**, **PostgreSQL**, and **Docker**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MLourenco111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLourenco111&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## ✨ Fun Facts  
-
-- 🎯 I believe in simple solutions for complex problems.  
-- 🧠 Passionate about system design and clean code.  
-- 🌎 Excited about working in multicultural and distributed teams.  
-- 📚 Constant learner — always improving as a developer and problem solver.  
-
----
 
 ---
