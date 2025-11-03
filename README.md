@@ -1,10 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/MLourenco111/MLourenco111/blob/main/banner.png" alt="Matheus Lourenço - Back-End Developer Banner" width="100%" />
-</p>
-
----
-
 # 👋 Hello there! I'm **Matheus Lourenço**
 
 💻 **Back-End Developer | Java Specialist**  
@@ -81,11 +74,10 @@ REST API built with **Java 21**, **Spring Boot**, **PostgreSQL**, and **Docker**
 
 ## ⚡ GitHub Stats  
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MLourenco111&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=FFFFFF" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLourenco111&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" height="170em" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MLourenco111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLourenco111&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
