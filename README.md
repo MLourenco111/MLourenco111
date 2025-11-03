@@ -1,7 +1,7 @@
 # 👋 Hello there! I'm **Matheus Lourenço**
 
-💻 **Back-End Developer | Java Specialist**  
-📍 Based in Brazil | 🌎 Open to remote opportunities  
+💻 **Back-End Developer | Java Focus**  
+📍 Based in Brazil | 🌎 Open to work remotly opportunities 
 
 ---
 
