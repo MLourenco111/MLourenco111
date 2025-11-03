@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/main/banner.png" alt="Matheus Lourenço - Back-End Developer Banner" width="100%" />
+  <img src="https://github.com/MLourenco111/MLourenco111/blob/main/banner.png" alt="Matheus Lourenço - Back-End Developer Banner" width="100%" />
 </p>
 
 ---
