@@ -49,6 +49,22 @@ Atualmente, atuo na **Agrotis**, desenvolvendo soluções com **Java**, **Spring
 
 ---
 
+## 🎯 Future Studies | Estudos Futuros  
+
+🌐 **Front-End Development** — focusing on modern frameworks and UI design principles:  
+- ⚛️ **React.js** and **Next.js**  
+- 🎨 **TypeScript**, **TailwindCSS** and **ShadCN/UI**  
+- 🧩 Component architecture & clean code in the front-end  
+- 🔄 Full integration between front and back-end APIs  
+
+🗣️ **Languages:** After consolidating my English fluency, I plan to start learning **Spanish** to strengthen communication across Latin America.  
+*(Após consolidar minha fluência em inglês, pretendo iniciar estudos de espanhol para ampliar minha comunicação na América Latina.)*
+
+> *My goal is to expand my skills toward full-stack development while maintaining strong back-end expertise.*  
+> *Meu objetivo é evoluir para o desenvolvimento full-stack, mantendo foco em arquitetura e qualidade no back-end.*
+
+---
+
 ## 🔥 Featured Project  
 
 🌐 [**usu-backend**](https://github.com/SEU-USUARIO/usu-backend)  
